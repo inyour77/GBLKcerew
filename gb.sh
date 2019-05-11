@@ -64,7 +64,7 @@ read -p "RootGooblog~# " cuy
 if [ $cuy = 1 ] || [ $cuy = 1 ]
 then
 clear
-sh kata.py
+sh kata.sh
 fi
 
 
