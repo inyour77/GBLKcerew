@@ -1,7 +1,7 @@
-##
-##
-##
-##
+##SC BULUK JAN DI RECODE
+##EH SIAOA JUGA YAH 😂😂
+##JAN DI AOA AOAIN OKE
+##ASIAP
 
 
 clear
