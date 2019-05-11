@@ -22,7 +22,7 @@ echo " •$red SINCE=2K18-2K19 $white       •"
 echo "{•}~~~~~~~~~~~~~\\\\\\\\\~~~~~~~~~~~~{•}"
 echo ""
 echo ""
-echo "$cyan   (C) XerXez7   (D) GOBLOG CREW"|lolcat
+echo "$cyan (B)TAKUR  (C) XerXez7  (D) GOBLOG CREW"|lolcat
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"|lolcat
 echo "$red {Q}{exit}"
 echo "\033[37;1m"
@@ -61,3 +61,8 @@ sleep 4
 exit
 fi
 
+if [ $cuy = B ] || [ $cuy = b ]
+then
+clear
+python j.py
+fi
