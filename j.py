@@ -68,13 +68,14 @@ lol=(c+"""
 sat=(c+"""
 {|}~~\~~~|~~~\~~~\~~~\~~~\~~~\~~~\~~~\~~~|~~~{|}
 | \x1b[35m Jika hanya sebatas janji bisa membuat tenang \033[0;1m|
-| \x1b[35mlantas mau sampai kapan berbohong membuat bahagia?!! \033[0;1m|
+| \x1b[35mlantas mau sampai kapan berbohong membuat.    \033[0;1m|
+| \x1b[35m  bahagia?!!                                  \033[0;1m|
 | \x1b[35m ~TaKuR                           :') \033[0;1m|
 {|}~~\~~~|~~~\~~~\~~~\~~~\~~~\~~~\~~~\~~~|~~~{|}
 """)
 bang=(c+"""
 {|}~~\~~~|~~~\~~~\~~~\~~~\~~~\~~~\~~~\~~~|~~~{|}
-| \x1b[35m Dari pada menjadi teman yang palsu \033[0;1m|
+| \x1b[35m Dari pada menjadi teman yang palsu  \033[0;1m|
 | \x1b[35m lebih baik menjadi musuh yang nyata!\033[0;1m|
 | \x1b[35m ~TaKuR                           :')\033[0;1m|
 {|}~~\~~~|~~~\~~~\~~~\~~~\~~~\~~~\~~~\~~~|~~~{|}
@@ -83,7 +84,7 @@ jing=(c+"""
 {|}~~\~~~|~~~\~~~\~~~\~~~\~~~\~~~\~~~\~~~|~~~{|}
 | \x1b[35m Bisakah kamu merindukanku kembali?\033[0;1m|
 | \x1b[35m Aku Tidak kuat merindu sendirian. \033[0;1m|
-| \x1b[35m ~TaKuR                           :')\033[0;1m|
+| \x1b[35m ~TaKuR                         :')\033[0;1m|
 {|}~~\~~~|~~~\~~~\~~~\~~~\~~~\~~~\~~~\~~~|~~~{|}
 """)
 
@@ -102,6 +103,8 @@ os.system("pkg update && upgrade")
 os.system("pkg install ruby")
 os.system("gem install lolcat")
 sleep(4)
+os.system("figlet XerXez7")
+sleep(5)
 os.system("clear")
 print(gilang)
 input('\n \033[1;31mEnTerUnTukLanjut~$ ')
