@@ -40,7 +40,7 @@ gilang=(kt+"""
    WAKIL    = IyXDream
    SESEPUH  = IyXerXez7
    PENGGERAK= IySasaky
-   PANGLIMA = Z3X.id
+   PANGLIMA = Z3X
    PENGGERAK= InYour./Ctr
 <~>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<~>
  GOBLOK CREW BUKANLAH TEAM CYBER NAMUN
@@ -60,7 +60,7 @@ OFICIAL MEMBER :
 ~InYour./Ctr
 ~AKBAR
 ~Death Devil
-
+~InYour/.Ltπcy
 {~}~~~~~~~~~~~~~~~~~~|<>|~~~~~~~~~~~~~~~~~~~~{~}
 """)
 
