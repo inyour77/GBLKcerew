@@ -41,7 +41,8 @@ gilang=(kt+"""
    SESEPUH  = IyXerXez7
    PENGGERAK= IySasaky
    PANGLIMA = Z3X.id
-<~>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<~>
+   PENGGERAK= InYour./Ctr
+<~>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<~>
  GOBLOK CREW BUKANLAH TEAM CYBER NAMUN
 GOBLOG CREW HAYALAH KELUARGA DIMANA SALING
 BECANDA LAYAKYA SEORAMG SAHABAT/SAUDARA.
@@ -56,14 +57,18 @@ OFICIAL MEMBER :
 ~RIANDA
 ~SASAKI
 ~XDREAM
+~InYour./Ctr
 ~AKBAR
+~Death Devil
+
 {~}~~~~~~~~~~~~~~~~~~|<>|~~~~~~~~~~~~~~~~~~~~{~}
 """)
 
 input('\nEnter for Play~$ ')
 slowprints(gilang)
-print(a+"""
+slowprints(a+"""
 sehabis ini kamu akan keluar dari tools 😊
 """)
 input('\nEnter For Exit~$ ')
+
 exit
