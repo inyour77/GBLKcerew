@@ -54,13 +54,15 @@ BECANDA LAYAKYA SEORAMG SAHABAT/SAUDARA.
 OFICIAL MEMBER :
 ~XERXEZ
 ~TAKURr
-~RIANDA
+~Z3X
 ~SASAKI
 ~XDREAM
 ~InYour./Ctr
 ~AKBAR
 ~Death Devil
 ~InYour/.Ltπcy
+~Mrs.N4DY4
+~InYour./ZryTect
 {~}~~~~~~~~~~~~~~~~~~|<>|~~~~~~~~~~~~~~~~~~~~{~}
 """)
 
